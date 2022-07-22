@@ -5,9 +5,6 @@ Coding assignments of the Advanced Machine Learning Courses (2022) - University 
 ## Dataset
 The dataset used in this assignment is from: https://www.tensorflow.org/datasets/catalog/horses_or_humans
 
-
-![](feature_importance.png)
-
 ## Hyperparameter
 - Optimizer = Adam (learning rate=0.001)
 - Loss = Cross Entropy
@@ -22,3 +19,6 @@ In this assignment 3 combination models will be used:
 | Model 1 |       3      |     (32, 64,128)     |
 | Model 2 |       4      |   (16, 32, 64, 128)  |
 | Model 3 |       5      |  (8, 16, 32, 64, 128)|
+
+
+![](feature_importance.png)
