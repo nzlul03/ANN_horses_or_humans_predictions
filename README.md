@@ -1,6 +1,6 @@
 # Artificial Neural Networks for Horse or Human Prediction
 
-Coding assignments of the Advanced Machine Learning Courses (2022) - University of Indonesia
+Coding assignment of the Advanced Machine Learning Courses (2022) - University of Indonesia
 
 ## Dataset
 The dataset used in this assignment is from: https://www.tensorflow.org/datasets/catalog/horses_or_humans
